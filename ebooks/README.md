@@ -35,7 +35,11 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/RueSibiya/
+
+
+
+
+git clone https://github.com/RueSibiya/alx-frontend-for-fun.git/
 
 Navigate to the project directory:
 
